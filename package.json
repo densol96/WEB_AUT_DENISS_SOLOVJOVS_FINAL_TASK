@@ -1,0 +1,22 @@
+{
+  "name": "web_aut_deniss_solovjovs_final_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/densol96/WEB_AUT_DENISS_SOLOVJOVS_FINAL_TASK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/densol96/WEB_AUT_DENISS_SOLOVJOVS_FINAL_TASK/issues"
+  },
+  "homepage": "https://github.com/densol96/WEB_AUT_DENISS_SOLOVJOVS_FINAL_TASK#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
